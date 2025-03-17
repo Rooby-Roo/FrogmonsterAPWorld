@@ -36,7 +36,7 @@ A completed /connect command will look something like this: `/connect archipelag
 By default, every single chest in the game, as well as every item given to you by NPCs (except for Orchus Key and Workshop Key), and every boss reward is randomized. Additionally, each bug when eaten for the first time will give you a randomized item, and the ability to equip each bug is shuffled among these locations. Optionally, you can also include the assorted sliding tile puzzles, so their coin rewards are shuffled, and completing them gives an item.
 
 ### So, how do you win, exactly?
-The goal is set in your settings. By default, you win the game by going to Myzand's Forest and defeating Myzand. Alternatively, with your settings, you can set it up so that the goal condition is instead to collect the Eye Fragment just, which is just behind the 6-Eye Door.
+The goal is set in your settings. By default, you win the game by going to Myzand's Forest and defeating Myzand. Alternatively, with your settings, you can set it up so that the goal condition is instead to collect the Eye Fragment, which is just behind the 6-Eye Door.
 
 ### I've beaten 6 Ridge bosses, but the 6-Eye Door in Ridge isn't opening.
 The door being opened is tied to how many Myzand Gun Upgrades you have in your inventory, not how many bosses have actually been defeated. This was done to prevent a situation where you're forced into an unnecessarily long post-game. That might be weird to hear if you're not used to the logistics of multiworld randomizers, but trust me on this one, it prevents a lot of headache.
