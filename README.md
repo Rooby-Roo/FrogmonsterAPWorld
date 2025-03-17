@@ -1,6 +1,6 @@
 # Frogmonster Randomizer Setup Guide
 
-This guide presumes you've never used Archipelago before. If you know the basics, skip to [Client Setup](#Client Setup) for stuff specific to this game.
+This guide presumes you've never used Archipelago before. If you know the basics, skip to [Client Setup](https://github.com/Rooby-Roo/FrogmonsterAPWorld?tab=readme-ov-file#client-setup) for stuff specific to this game.
 
 # Choose your Settings
 Download `Frogmonster.yaml` from this repository and name it something unique. Open it up in a text editor of your choice. Give yourself a player name, and choose options according to your liking. (Settings which give you multiple options are written as weighted choices (50 or 0) by default. Writing them out unweighted like `game_difficulty: normal` is perfectly OK too.) Consider running your YAML through a YAML linter to make sure that you didn't break YAML formatting accidentally.
