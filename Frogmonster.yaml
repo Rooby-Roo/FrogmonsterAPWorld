@@ -91,7 +91,7 @@ Frogmonster:
     'true': 0
 
   shop_multiplier:
-    # Decreases the total cost of items in shops by a percentage. 100 = no discount, 0 = free shops.
+    # Decreases the total cost of items in shops by a percentage. 100 = no discount, 0 = free shops. This does not impact gun upgrade costs, or buying from Supa.
     #
     # You can define additional values between the minimum and maximum values.
     # Minimum value is 0
@@ -106,6 +106,13 @@ Frogmonster:
     'false': 50
     'true': 0
 
+  well_light_logic:
+    # Chooses which items will be expected to be acquired for traversing the well. Glowbug for navigating dark passages, Fire Fruit Juicer for relighting the candle after Fire-Eaters, or both.
+    none: 0
+    glowbug: 0
+    fire_fruit_juicer: 50
+    both: 0
+
   # Item & Location Options
   local_items:
     # Forces these items to be in their native world.
@@ -116,13 +123,13 @@ Frogmonster:
     []
 
   start_inventory:
-    # Start with a copy of these items. These items will still be placed in the world.
+    # Start with these items.
     {}
 
   start_inventory_from_pool:
     # Start with these items and don't place them in the world.
     # 
-    # The game will replace them with extra coins.
+    # The game decides what the replacement items will be.
     {}
 
   start_hints:
