@@ -7,6 +7,8 @@ Download `Frogmonster.yaml` from this repository and name it something unique. O
 
 # Generating a Game
 
+Choose one of the below options:
+
 ### I'm playing alone, or I'm hosting the room:
 Download the following:
 1. `frogmonster.apworld` (found [on the Releases page](https://github.com/Rooby-Roo/FrogmonsterAPWorld/releases/latest))
