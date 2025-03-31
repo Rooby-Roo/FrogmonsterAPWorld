@@ -18,7 +18,9 @@ Open the folder where Archipelago was installed. Place `frogmonster.apworld` in 
 
 Optionally, you can open the `host.yaml` file and adjust some generation settings if you'd like. The defaults are fine if you're new to Archipelago, though.
 
-Once you've got all the player YAMLs, open Archipelago, and click "Generate". If everything works correctly, a zip folder will appear in your `\outputs` folder. Go to [archipelago.gg](https://archipelago.gg) and click "Host Game". Upload that .zip file and create a room. Share this room link with any other players.
+Once you've got all the player YAMLs, open Archipelago, and click "Generate". If everything works correctly, a zip folder will appear in your `\outputs` folder. Go to [archipelago.gg](https://archipelago.gg) and click "Host Game". Upload that .zip file and create a room. Share this room link with any other players. 
+
+If someone you're playing with asks you for a patch file and it's not on the webpage, you can unzip the folder in output and send them the file they are asking for. Do not send the entire zip, as it will include your spoiler log and all files necessary to duplicate your room.
 
 If you're having issues with the generation process, ask around. Consider providing the generation logs from your most recent attempts (found in `\logs`) as well as the YAML files used in generation.
 
