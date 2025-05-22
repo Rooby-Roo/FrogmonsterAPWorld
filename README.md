@@ -1,4 +1,4 @@
-(If you're looking for a straight working repository for my world development and/or want to help contribute, check the Frogmonster branch on my [Archipelago Fork](https://github.com/Rooby-Roo/Archipelago/tree/Frogmonster).
+(If you're looking for a straight working repository for my world development and/or want to help contribute, check the Frogmonster branch on my [Archipelago Fork](https://github.com/Rooby-Roo/Archipelago/tree/Frogmonster).)
 
 # Frogmonster Randomizer Setup Guide
 
