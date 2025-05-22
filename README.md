@@ -1,3 +1,5 @@
+(If you're looking for a straight working repository for my world development and/or want to help contribute, check the Frogmonster branch on my [Archipelago Fork](https://github.com/Rooby-Roo/Archipelago/tree/Frogmonster).
+
 # Frogmonster Randomizer Setup Guide
 
 This guide presumes you've never used Archipelago before. If you know the basics, skip to [Client Setup](https://github.com/Rooby-Roo/FrogmonsterAPWorld?tab=readme-ov-file#client-setup) for stuff specific to this game, and grab the files from the [Releases page](https://github.com/Rooby-Roo/FrogmonsterAPWorld/releases/latest).
