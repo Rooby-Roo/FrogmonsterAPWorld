@@ -32,7 +32,7 @@ description: Default Frogmonster Template
 
 game: Frogmonster
 requires:
-  version: 0.6.0 # Version of Archipelago required for this yaml to work as expected.
+  version: 0.6.1 # Version of Archipelago required for this yaml to work as expected.
 
 Frogmonster:
   # Game Options
@@ -64,6 +64,10 @@ Frogmonster:
     # **Minimal:** ensure what is needed to reach your goal can be acquired.
     full: 50
     minimal: 0
+
+  plando_items:
+    # Generic items plando.
+    []
 
   game_difficulty:
     # Determines expected player skill. A harder difficulty means you will be expected to go further in the game with less resources.
@@ -103,6 +107,11 @@ Frogmonster:
 
   open_city:
     # When enabled, the Lost Swamp portal vine will be enabled from the beginning, allowing quick travel to City without needing Sticky Hands.
+    'false': 50
+    'true': 0
+
+  hardcore_parkour:
+    # When enabled, the player will be expected to do more advanced or unituitive platform movement to get to some locations.
     'false': 50
     'true': 0
 
